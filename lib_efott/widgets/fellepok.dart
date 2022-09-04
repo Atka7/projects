@@ -1,0 +1,1 @@
+//Fellépőkről felugró ablak, infóval, kép, név helyszín stb
